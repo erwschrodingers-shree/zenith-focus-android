@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zenith</string>
+    <string name="notification_listener_label">Zenith Focus Notifications</string>
+
+    <!-- Dashboard Strings -->
+    <string name="duration_label">Duration</string>
+    <string name="duration_15m">15m</string>
+    <string name="duration_45m">45m</string>
+    <string name="duration_90m">90m</string>
+    <string name="audio_loop_title">Audio Loop</string>
+    <string name="audio_loop_desc">Play ambient audio during focus</string>
+    <string name="dnd_title">Do Not Disturb</string>
+    <string name="dnd_desc">Suppress all notifications</string>
+    <string name="reward_break_title">Reward Break</string>
+    <string name="reward_break_desc">Pause at 50% for a short break</string>
+    <string name="allowed_apps_label">Allowed Apps (Max 6)</string>
+    <string name="slide_to_start">Slide to Start Zen</string>
+    <string name="zen_active">Zen Mode Active</string>
+
+    <!-- Permission Strings -->
+    <string name="permission_notification_title">Notification Access</string>
+    <string name="permission_notification_desc">Allow Zenith to intercept notifications and suppress distractions during focus sessions.</string>
+    <string name="permission_overlay_title">Screen Overlay</string>
+    <string name="permission_overlay_desc">Display a full-screen lock overlay to prevent app switching during Zen Mode.</string>
+    <string name="permission_battery_title">Battery Optimization</string>
+    <string name="permission_battery_desc">Exclude Zenith from battery optimization to keep your focus session running.</string>
+    <string name="permission_background_title">Background Execution</string>
+    <string name="permission_background_desc">Allow Zenith to run in the background and maintain your focus lock.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_granted">✓ Granted</string>
+    <string name="permission_welcome">Welcome to Zenith</string>
+    <string name="permission_subtitle">To enable strict focus lock, we need a few permissions</string>
+    <string name="permission_complete">Complete</string>
+    <string name="permission_next">Next</string>
+    <string name="permission_back">Back</string>
+
+    <!-- Zen Mode Strings -->
+    <string name="screen_dim">Dim Screen</string>
+    <string name="screen_dimmed">Screen Dimmed (5%)</string>
+    <string name="audio_play">▶ Play</string>
+    <string name="audio_pause">⏸ Pause</string>
+    <string name="volume_label">Volume</string>
+</resources>

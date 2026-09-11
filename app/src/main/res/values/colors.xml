@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors -->
+    <color name="off_white">#F4F4F6</color>
+    <color name="dark_slate">#0F172A</color>
+    <color name="saffron_orange">#FF5500</color>
+    <color name="subtle_gray">#E2E8F0</color>
+    <color name="pure_dark">#0A0A0C</color>
+    <color name="slate_container">#16161E</color>
+    <color name="glowing_orange">#FF6B35</color>
+</resources>

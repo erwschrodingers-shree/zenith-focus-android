@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensions -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">12dp</dimen>
+    <dimen name="spacing_lg">16dp</dimen>
+    <dimen name="spacing_xl">24dp</dimen>
+    <dimen name="spacing_xxl">32dp</dimen>
+
+    <!-- Corner Radius -->
+    <dimen name="corner_radius_sm">8dp</dimen>
+    <dimen name="corner_radius_md">16dp</dimen>
+    <dimen name="corner_radius_lg">24dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_size_caption">11sp</dimen>
+    <dimen name="text_size_label">12sp</dimen>
+    <dimen name="text_size_body">14sp</dimen>
+    <dimen name="text_size_title">16sp</dimen>
+    <dimen name="text_size_headline">24sp</dimen>
+    <dimen name="text_size_display">32sp</dimen>
+
+    <!-- Button -->
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="button_corner_radius">16dp</dimen>
+
+    <!-- Clock Display -->
+    <dimen name="clock_display_height">180dp</dimen>
+    <dimen name="clock_text_size">72sp</dimen>
+</resources>
