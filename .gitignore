@@ -1,0 +1,46 @@
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+.DS_Store
+build/
+.gradle
+.idea/
+local.properties
+*.iml
+*.log
+.cxx/
+.externalNativeBuild/
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# Android Studio
+.idea/
+*.iml
+*.apk
+*.aar
+*.ap_
+*.aab
+*.so
+*.jks
+*.keystore
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.nar
+*.zip
+*.tar.gz
+.gradle
+build/
+out/
+
+# Mac
+.DS_Store
+
+# Local properties
+local.properties
